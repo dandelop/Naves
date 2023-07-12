@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 4a25c71d6658f13bf8f8f39fdc8ecabf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fa7db974d421305a276e8985dda056
+      internalID: -1299214466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 45
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5d7834490de62d6a5e0b97597136a4
+      internalID: -1103307391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a625737386ec97394b6981d6dbbf59f3
+      internalID: -1809489149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5cb2b698cbefe9aa4be64a191336d
+      internalID: -1490344518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c0e0686bbc0173fb774bb2a9041056
+      internalID: 1501151954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ed9399d6c16225a044eaa370ce85c
+      internalID: -2089913056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 28
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8c79b782c7059aad5a6d1ceb845ea
+      internalID: -2099289318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f613f2320ea8508580671ba7616d1
+      internalID: 2143847320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 28
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b64a9954206d017081a4526e1ece147
+      internalID: 132500057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d19a3ff752cc25e39521b225e17d50a
+      internalID: 135228401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 19
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00e2cb8e55bf780fb49943aaab00d8e
+      internalID: -1766695408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 19
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c6e847982fea18fa46bae6b8fbe460
+      internalID: 355683502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53527a10235ab67fca920d2ca546111b
+      internalID: -1427946411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 55
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c177a983f71f432fb1c790634a4e9a5
+      internalID: 1822566347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 10
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a91508eddb7ea3beaecaed628d5e85c
+      internalID: -1007430908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c96850d7f7635cb82469ef65273494
+      internalID: 191664531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d90187198cbae059753624dcc40e01
+      internalID: -490088912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0e7ece0b2585cb1916bd4e3afdf46f
+      internalID: -1076134313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992c7522523fcb5395052463fc7f1ce
+      internalID: 1271174581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_17: -1076134313
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_9: 135228401
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_15: 191664531
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_18: 1271174581
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_14: -1007430908
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_12: -1427946411
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_1: -1103307391
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_11: 355683502
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_5: -2089913056
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_10: -1766695408
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_13: 1822566347
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_4: 1501151954
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_6: -2099289318
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_8: 132500057
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_0: -1299214466
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_3: -1490344518
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_16: -490088912
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_7: 2143847320
+      Custom Edited - Mario Customs - Items Super Mario Bros 3 MS-DOS-Style_2: -1809489149
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
